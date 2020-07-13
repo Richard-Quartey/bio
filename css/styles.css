@@ -48,7 +48,7 @@ p{
 .copyright{
   color: #EAF6F6;
   font-size: 0.75rem;
-  padding: 20px 0;
+  padding: 20px 0; 
 }
 .top-container {
   background-color: #EAF6F6;
@@ -85,7 +85,8 @@ p{
 }
 .profile-img{
   border-radius: 100%;
-  width: 35%;
+  width: 400px;
+  height: 400px;
 }
 .skill-row{
   width: 50%;
