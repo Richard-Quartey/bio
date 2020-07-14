@@ -91,7 +91,6 @@ p{
 .skill-row{
   width: 50%;
   margin: 6.25rem auto 6.25rem auto;
-  text-align: center;
 }
   padding-bottom: 100px;
 }
@@ -140,4 +139,10 @@ p{
   background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
+}
+.webdevelopment-intro{
+  text-align: right;
+}
+.cybersecurity-intro{
+  text-align: left;
 }
