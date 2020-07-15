@@ -39,7 +39,7 @@ hr{
   border-color: #e4e3e3;
   border-width: 7px;
   border-style: dotted none none;
-  width: 3%;
+  width: 4%;
   margin: 100px auto;
 }
 p{
@@ -110,7 +110,7 @@ p{
   margin: auto;
 }
 .contact-message{
-  width: 27%;
+  width: 45%;
   margin: 40px auto 60px;
 }
 .btn {
